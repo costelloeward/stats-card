@@ -22,10 +22,10 @@ header {
 .desks {
   opacity: 0.4;
 }
-
-img{
+/* How to get the image to scale without showing solid purple at the bottom and right edges? */
+/* img{
   object-fit: cover;
-}
+} */
 
 main {
   margin-bottom: 2rem;
@@ -60,7 +60,9 @@ p {
   .flex-grid {
     display: flex;
   }
-
+header{
+  float: right;
+}
   .col {
     flex: 50%;
   }
