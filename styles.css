@@ -32,17 +32,18 @@ p {
   color: hsl(277, 64%, 61%);
 }
 /* Styling the image */
-
+.image-tint{
+  background: #AA5CDB;
+  background: hsl(277, 64%, 61%);
+}
 img{
+
   height: 100%;
+  mix-blend-mode: multiply;
   object-fit: cover;
   opacity: 0.7;
   width:100%;
 }
-/* Try mix-blend-mode */
-/* background: #AA5CDB;
-background: hsl(277, 64%, 61%); */
-
 
 /* Styling for larger screen sizes */
 @media(min-width:90rem) {
