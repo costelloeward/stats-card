@@ -6,7 +6,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -64,5 +63,5 @@ Future focus on what semantic html elements can and can't do: where divs may sti
 
 ## Acknowledgments
 
-Thanks to [Grace Snow] (https://www.frontendmentor.io/profile/grace-snow) who helped out on Slack when I got stuck on the image styling
+Thanks to [Grace Snow](https://www.frontendmentor.io/profile/grace-snow) who helped out on Slack when I got stuck on the image styling
 
