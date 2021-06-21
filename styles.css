@@ -53,10 +53,12 @@ ul{
   list-style: none;
   padding: 0;
 }
-.stat-title {
-  color: #FFFFFF;
-  color: hsla(0, 0%, 100%, 0.6);
+.stat{
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
 }
+
 
 /* Styling for larger screen sizes */
 @media(min-width:90rem) {
