@@ -17,7 +17,7 @@ body {
 main {
   background: #1B1938;
   background: hsl(244, 38%, 16%);
-  border-radius: 1rem;
+  border-radius: 0.5rem;
 
 }
 
@@ -39,6 +39,7 @@ p {
 .image-tint{
   background: #AA5CDB;
   background: hsl(277, 64%, 61%);
+  border-radius: 0.5rem 0.5rem 0 0;
 }
 img{
 
@@ -79,6 +80,7 @@ li{
     display: flex;
     flex-direction: row-reverse;
     max-width: 80vw;
+    min-width: 90vw;
   }
 li{
   display: inline-block;
@@ -87,4 +89,9 @@ li{
   .col {
     flex: 50%;
   }
+
+  .image-tint{
+    border-radius: 0 0.5rem 0.5rem 0;
+  }
+
 }
